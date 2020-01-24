@@ -1,5 +1,6 @@
 def game_hash
-  # Write your code here!
+  { 
+    :away # Write your code here!
 
 
 
