@@ -17,8 +17,8 @@ def game_hash
         :shoe => 16,
         :points => 12,
         :repounds => 4,
-        :assists => 1,
-        :steals => 2,
+        :assists => 7,
+        :steals => 22,
         :slam_dunks => 2
       },
       {:player_name => "Jeff Adrien"
