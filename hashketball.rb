@@ -1,6 +1,6 @@
 def game_hash
   { 
-    :away => { :team 
+    :away => { :team_name
     # Write your code here!
 
 
