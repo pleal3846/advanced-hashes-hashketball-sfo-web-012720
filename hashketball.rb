@@ -12,7 +12,7 @@ def game_hash
         :steals => 2,
         :slam_dunks => 2
       },
-      {:player_name => "Bismack "
+      {:player_name => "Bismack biyombo"
         :number => 4,
         :shoe => 18,
         :points => 10,
