@@ -5,7 +5,7 @@ def game_hash
     :players => [
       {:player_name => "Jeff Adrien"
         :number => 4,
-        :shoe
+        :shoe => 
       }]
     # Write your code here!
 
