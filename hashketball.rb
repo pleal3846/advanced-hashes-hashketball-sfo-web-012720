@@ -9,6 +9,7 @@ def game_hash
         :points => 10,
         :repounds => 1,
         :assists => 1,
+        :steals => 2,
         
       }]
     # Write your code here!
