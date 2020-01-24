@@ -7,7 +7,8 @@ def game_hash
         :number => 4,
         :shoe => 18,
         :points => 10,
-        :repounds 
+        :repounds => 1,
+        
       }]
     # Write your code here!
 
