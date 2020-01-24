@@ -19,6 +19,7 @@ def game_hash
         :repounds => 4,
         :assists => 7,
         :steals => 22,
+        :blocks =>
         :slam_dunks => 2
       },
       {:player_name => "Jeff Adrien"
