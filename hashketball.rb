@@ -1,6 +1,7 @@
 def game_hash
   { 
-    :away => {# Write your code here!
+    :away => { :team 
+    # Write your code here!
 
 
 
