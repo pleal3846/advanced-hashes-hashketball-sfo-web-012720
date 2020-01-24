@@ -10,7 +10,8 @@ def game_hash
         :repounds => 1,
         :assists => 1,
         :steals => 2,
-        :blocks =>
+        :blocks => 7,
+        
       }]
     # Write your code here!
 
