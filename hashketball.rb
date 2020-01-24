@@ -21,7 +21,7 @@ def game_hash
         :assists => 7,
         :steals => 22,
         :blocks => 15,
-        :slam_dunks => 2
+        :slam_dunks => 10,
       },
       {:player_name => "Jeff Adrien"
         :number => 4,
